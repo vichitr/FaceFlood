@@ -11,5 +11,5 @@ We will develop a platform that will provide a better flood management and bette
 On this platform, a person can check for nearby available help and notify other users about his/her condition. Also we can use device sensors to autodetect the flood if user gets no chance to do so. So better flood recovery can be done this way. People who are not affected can also help the others if they get the information. That can easily be done through the platform.
 
 ## Team Members
-- [Vichitr](@vichitr)
-- [Divyansh Verma](@failed_coder)
+- [Vichitr](https://github.com/vichitr)
+- [Divyansh Verma](https://github.com/failedcoder12)
