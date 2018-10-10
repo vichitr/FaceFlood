@@ -13,3 +13,4 @@ On this platform, a person can check for nearby available help and notify other 
 ## Team Members
 - [Vichitr](https://github.com/vichitr)
 - [Divyansh Verma](https://github.com/failedcoder12)
+- Bhavya
